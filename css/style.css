@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    background: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+    font-family: Arial,
+        sans-serif;
+}
+
+canvas {
+    background: black;
+}
